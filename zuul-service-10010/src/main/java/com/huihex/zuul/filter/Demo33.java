@@ -7,5 +7,6 @@ package com.huihex.zuul.filter;
 public class Demo33 {
     public static void main(String[] args) {
         System.out.println("厕所是是是");
+        System.out.println("厕所是是是");
     }
 }
