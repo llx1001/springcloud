@@ -5,4 +5,7 @@ package com.huihex.zuul.filter;
  * @date 2021/04/11 09:06
  */
 public class Demo33 {
+    public static void main(String[] args) {
+        System.out.println("厕所是是是");
+    }
 }
